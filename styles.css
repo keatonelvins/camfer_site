@@ -15,6 +15,15 @@ h1 {
     margin: 0;
 }
 
+h3 {
+    margin: 0;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 300;
+    margin-bottom: 2rem;
+    color: #424242;
+}
+
 form {
     margin: 0;
     width: 100%;
