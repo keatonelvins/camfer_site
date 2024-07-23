@@ -77,3 +77,24 @@ button {
 button:hover {
     background: #5bb0bd;
 }
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 4em;
+        line-height: 4rem;
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+
+    input[type="email"] {
+        font-size: 0.8em;
+        width: 20%;
+    }
+
+    button {
+        font-size: 0.8em;
+        margin-right: 0.5em;
+    }
+}
